@@ -1,2 +1,2 @@
-# Electric Thought
+### Electric Thought
 
